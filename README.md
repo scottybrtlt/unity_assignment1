@@ -1,7 +1,3 @@
-Here’s a polished **GitHub README.md** you can use for your Unity application that demonstrates C# fundamentals inside a kids’ bedroom scene:
-
----
-
 # Unity Kids' Bedroom – C# Fundamentals Demo
 
 Welcome to the **Unity Kids' Bedroom Project**! 🎮
@@ -86,26 +82,4 @@ This project is perfect for **beginners** learning Unity + C#. By the end, you w
 
 ---
 
-## 📸 Screenshots
-
-*(Add images or gifs here showing the bedroom scene, interactive toys, etc.)*
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-* Open an issue for feature requests or bug reports.
-* Submit a pull request with improvements.
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.
-
----
-
-Would you like me to also create a **diagram-style graphic** (e.g., bedroom layout mockup with labels for where C# concepts are demonstrated) for your README? That could make it more engaging visually.
 
